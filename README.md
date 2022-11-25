@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @amilashanaka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-amilashanaka/amilashanaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 A senior developer from Sri Lanka, enrolled in a data science master's programme at the University of West England (UWE) in January 2022. my studies will be finished by January 2023. I earned a BTEC in electronic and telecommunications in 2011, a Master of Applied Electronics in 2016, and a Bachelor of Science in Computer Science in 2008. strong programming, electronics, and telecommunications problem-solving skills.
+
+- 👀 I’m interested in PHP/Python 
+
 
 I live in the south-west Welsh town of Neath Port Talbot with my wife and two children (SA11 2HN). I am permitted to work 20 hours a week as a student, which will be increased to full time by the end of January. My wife, who has 12 years of teaching experience, is looking for a full-time position with sponsorship. I am currently searching for a senior or full-stack development role, either full-time or part-time. In any industry. I am open to relocating at any time.
 
@@ -40,6 +36,17 @@ In 2018 I start my PhD in Malaysia the topic of deep recurrent neural networks (
 
 
 In 2022 I start my master in Data science (UWE-UK) plan to finish in January 2023 completed all modules with distinction pass final project is pending . work with power BI , Tablue and development skill about data migration processing and presenting. Forecasting time series data use of python and python flask application. 
+
+
+
+
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Php/Python 
+- 📫 How to reach me  dsa.amilashanaka@gmail.com
+
+<!---
+amilashanaka/amilashanaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 --->
