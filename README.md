@@ -4,7 +4,8 @@ A senior developer from Sri Lanka, enrolled in a data science master's programme
 - 👀 I’m interested in PHP/Python 
 
 
-I live in the south-west Welsh town of Neath Port Talbot with my wife and two children (SA11 2HN). I am permitted to work 20 hours a week as a student, which will be increased to full time by the end of January. My wife, who has 12 years of teaching experience, is looking for a full-time position with sponsorship. I am currently searching for a senior or full-stack development role, either full-time or part-time. In any industry. I am open to relocating at any time.
+I live in the south-west Welsh town of Neath Port Talbot (UK) with my wife and two children.
+
 
 Work Experience (development):
 
